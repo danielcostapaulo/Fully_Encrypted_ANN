@@ -1,0 +1,3 @@
+/home/dnaiel/Desktop/SC/proj/source/build/CMakeFiles/SC_enc.dir
+/home/dnaiel/Desktop/SC/proj/source/build/CMakeFiles/edit_cache.dir
+/home/dnaiel/Desktop/SC/proj/source/build/CMakeFiles/rebuild_cache.dir
